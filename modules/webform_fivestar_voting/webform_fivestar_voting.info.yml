@@ -1,0 +1,12 @@
+name: 'Voting Fivestar Webform'
+type: module
+description: 'Provides a webform on nodes for fivestar voting.'
+package: 'GCWeb_Library'
+core: 8.x
+css:
+  layout:
+    css/style.css: {}
+  theme:
+    css/style.css: {}
+dependencies:
+  - 'webform:webform'
