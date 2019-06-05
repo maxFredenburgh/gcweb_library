@@ -1,0 +1,7 @@
+name: 'Voting Webform'
+type: module
+description: 'Provides a webform on nodes for voting.'
+package: 'GCWeb_Library'
+core: 8.x
+dependencies:
+  - 'webform:webform'

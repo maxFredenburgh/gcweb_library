@@ -1,0 +1,10 @@
+webform.handler.voting:
+  type: mapping
+  label: Vote
+  mapping:
+    message:
+      label: Message
+      type: string
+    debug:
+      type: boolean
+      label: 'Enable debugging'

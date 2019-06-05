@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * @file
+ * Provides an example of a webform handler.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function webform_voting_theme() {
+  return [
+    'webform_voting_summary' => [
+      'variables' => ['settings' => NULL, 'handler' => []],
+    ],
+  ];
+}

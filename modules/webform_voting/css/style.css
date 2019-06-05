@@ -1,0 +1,23 @@
+.webform-button--submit.up.active{
+    width: 75px;
+    height: 22px;
+    text-indent: -99999px;
+    background: url(images/plus.png) 0 0 no-repeat;
+    background-position: top;
+    border: none;
+}
+
+.vud-widget-alternate .alternate-votes-display {
+    font-family: Georgia, serif;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-size: 18px;
+    padding: 2px;
+}
+
+.vud-widget-alternate {
+    clear: left;
+    padding: 0;
+    margin: 5px 6px 1px 0;
+    width: 75px;
+}
