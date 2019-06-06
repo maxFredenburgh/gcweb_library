@@ -3,5 +3,6 @@ type: module
 description: 'Provides a webform on nodes for voting.'
 package: 'GCWeb_Library'
 core: 8.x
-dependencies:
+libraries:
+  - 'webform_voting/global-styling'
   - 'webform:webform'
